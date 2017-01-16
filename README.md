@@ -37,6 +37,10 @@ Once you have the environment set up, you can open the notebook and experiment o
 
 [DeepMind Lab](https://github.com/deepmind/lab)
 
+[Comma.ai Neo Platform](https://github.com/commaai/neo)
+
+[Comma.ai research paper](https://arxiv.org/abs/1608.01230)
+
 ### License
 
 Copyright (C) 2017 Damien Stanton. 
