@@ -41,4 +41,4 @@ Once you have the environment set up, you can open the notebook and experiment o
 
 Copyright (C) 2017 Damien Stanton. 
 
-Freely distributed via the MIT License. See [LICENSE](https://github.com/damienstanton/aimeetup0/blob/master/LICENSE) file for details.
+Freely distributed via the MIT License. See [LICENSE](https://github.com/damienstanton/rl-gettingstarted/blob/master/LICENSE) file for details.
