@@ -6,7 +6,6 @@ To get started, make sure you have the dependencies required for OpenAI Gym/Univ
 
 Please check the [Gym docs](https://gym.openai.com/docs) and [Universe repo](https://github.com/openai/universe) for details, but broadly to execute what's in the notebook these are:
 
-+ `macOS 10.12.2`
 + `Docker`
 + `git`
 + `Python => 3.5`
