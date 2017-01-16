@@ -1,6 +1,6 @@
-### Reinforcement Learning: getting started
+### Reinforcement Learning: Getting Started
 
-This repo has the Jupyter notebook I used for the first AI Engineering meetup on January 16, 2017.
+AI Engineering meetup on January 16, 2017.
 
 To get started, make sure you have the dependencies required for OpenAI Gym/Universe. 
 
@@ -10,7 +10,7 @@ Please check the [Gym docs](https://gym.openai.com/docs) and [Universe repo](htt
 + `git`
 + `Python => 3.5`
 
-#### To get started: run the included setup script.
+#### First: run the included setup script.
 ```sh
 ./setup
 ```
