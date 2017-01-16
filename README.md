@@ -35,6 +35,8 @@ Once you have the environment set up, you can open the notebook and experiment o
 
 [Reinforcement Learning with Unsupervised Auxiliary Tasks (UNREAL)](https://arxiv.org/abs/1611.05397)
 
+[DeepMind Lab](https://github.com/deepmind/lab)
+
 ### License
 
 Copyright (C) 2017 Damien Stanton. 
